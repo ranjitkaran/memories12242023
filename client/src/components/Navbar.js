@@ -18,7 +18,7 @@ const NavBar = ()=>{
             <li key="2"><Link to="/profile">Profile</Link></li>,
             <li key="3"><Link to="/create">Create Post</Link></li>,
             <li key="4"><Link to="/myfollowingpost">My following Posts</Link></li>,
-            <li key="3"><a href="http://localhost:3000" target="_blank">Shop Now</a></li>,
+            // <li key="3"><a href="http://localhost:3000" target="_blank">Shop Now</a></li>,
             <li  key="5">
              <button className="btn #c62828 red darken-3"
             onClick={()=>{
